@@ -1,0 +1,6 @@
+name = input()
+nameCount = len(name)
+print(name +", " + name + ", bo-b" + name[1:nameCount])
+print("banana-fana fo-f" + name[1:nameCount])
+print("fee-fi-mo-m" +  name[1:nameCount])
+print(name + "!")

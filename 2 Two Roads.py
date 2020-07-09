@@ -1,0 +1,5 @@
+t = min(a,b)
+t = min(t,c)
+t2 = min(d,e)
+j= max(t,t2)
+print(j)
