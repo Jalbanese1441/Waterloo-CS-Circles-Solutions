@@ -1,18 +1,4 @@
-https://cscircles.cemc.uwaterloo.ca/8-remix/
-
 # -------- Work smarter not harder --------
-#xS=[]
-#yS=[]
-#for i in range(32,128):
-#	if i==32 or i==48 or i==64 or i==80 or i==96 or i==112:
-#		#print(i)
-#		x="chr: "+chr(i)+" "+chr(i+1)+" "+chr(i+2)+" "+chr(i+3)+" "+chr(i+4)+" "+chr(i+5)+" "+chr(i+6)+" "+chr(i+7)+" "+chr(i+8)+" "+chr(i+9)+" "+chr(i+10)+" "+chr(i+11)+" "+chr(i+12)+" "+chr(i+13)+" "+chr(i+14)+" "+chr(i+15)
-#		y="asc: "+str(i)+" "+str(i+1)+" "+str(i+2)+" "+str(i+3)+" "+str(i+4)+" "+str(i+5)+" "+str(i+6)+" "+str(i+7)+" "+str(i+8)+" "+str(i+9)+" "+str(i+10)+" "+str(i+11)+" "+str(i+12)+" "+str(i+13)+" "+str(i+14)+" "+str(i+15)
-#		xS.append(x)
-#		yS.append(y)
-#for i in range(len(xS)):
-#	print(xS[i])
-#	print(yS[i])
 
 print("chr:      !   \"   #   $   %   &   '   (   )   *   +   ,   -   .   / ")
 print("asc: 32  33  34  35  36  37  38  39  40  41  42  43  44  45  46  47 ")
